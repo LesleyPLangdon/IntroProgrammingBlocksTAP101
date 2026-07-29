@@ -22,16 +22,16 @@ Swap `Mod1` for `Mod2`, `Mod3`, etc. to open a different module's tutorial.
 
 | Unit | Module | Topic | Tutorial |
 |---|---|---|---|
-| Building Blocks: The Code Behind the Game | 1 | Sequencing and Events | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/Mod1) |
-| Building Blocks: The Code Behind the Game | 2 | Variables | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/Mod2) |
-| Building Blocks: The Code Behind the Game | 3 | Input and Player Control | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/Mod3) |
-| Level Up: The Logic Behind the Game | 4 | Conditionals | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/Mod4) |
-| Level Up: The Logic Behind the Game | 5 | Boolean Logic and Operators | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/Mod5) |
-| Level Up: The Logic Behind the Game | 6 | Loops | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/Mod6) |
-| Power Up: The Magic Behind the Game | 7 | Randomness | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/Mod7) |
-| Power Up: The Magic Behind the Game | 8 | Lists (Arrays) | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/Mod8) |
-| Power Up: The Magic Behind the Game | 9 | Functions | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/Mod9) |
-| Game On: Where It All Comes Together | 10 | Final Project & Showcase | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/Mod10) |
+| Building Blocks: The Code Behind the Game | 1 | Sequencing and Events | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/mod1) |
+| Building Blocks: The Code Behind the Game | 2 | Variables | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/mod2) |
+| Building Blocks: The Code Behind the Game | 3 | Input and Player Control | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/mod3) |
+| Level Up: The Logic Behind the Game | 4 | Conditionals | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/mod4) |
+| Level Up: The Logic Behind the Game | 5 | Boolean Logic and Operators | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/mod5) |
+| Level Up: The Logic Behind the Game | 6 | Loops | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/mod6) |
+| Power Up: The Magic Behind the Game | 7 | Randomness | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/mod7) |
+| Power Up: The Magic Behind the Game | 8 | Lists (Arrays) | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/mod8) |
+| Power Up: The Magic Behind the Game | 9 | Functions | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/mod9) |
+| Game On: Where It All Comes Together | 10 | Final Project & Showcase | [Open](https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/mod10) |
 
 *Modules are added to this repository over the course of development — a link above won't work yet if that module's tutorial hasn't been published.*
 
