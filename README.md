@@ -6,17 +6,19 @@ Each module teaches one concept in isolation and ends with a tiny, single-mechan
 
 ## Who this is for
 
-Designed for beginners with no prior coding experience, anchored around middle-school age but flexible for somewhat younger or older students. No prior experience with MakeCode or programming is assumed.
+Designed for beginners with no prior coding experience. No prior experience with MakeCode or programming is assumed.
+
+If you've never used MakeCode Arcade before, start with the [Intro to MakeCode Arcade](https://arcade.makecode.com/#tutorial:/tutorials/intro) tutorial first — it walks through the editor itself (blocks, sprites, the simulator) before you begin Module 1.
 
 ## How the tutorials work
 
-Each module has its own self-guided, in-editor tutorial file in this repository (`Mod1.md` through `Mod10.md`). Open one directly in MakeCode Arcade using a link in this format:
+Each module has its own self-guided, in-editor tutorial file in this repository (`mod1.md` through `mod10.md`). Open one directly in MakeCode Arcade using a link in this format:
 
 ```
-https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/Mod1
+https://arcade.makecode.com/#tutorial:https://github.com/LesleyPLangdon/IntroProgrammingBlocksTAP101/mod1
 ```
 
-Swap `Mod1` for `Mod2`, `Mod3`, etc. to open a different module's tutorial.
+Swap `mod1` for `mod2`, `mod3`, etc. (lowercase — filenames are case-sensitive) to open a different module's tutorial.
 
 ## Modules
 
